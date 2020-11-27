@@ -139,7 +139,7 @@
                 {
                  "name":"openAudioStream",
                  "type":"string",
-                 "value":"https:\/\/swr-dasding-live.sslcast.addradio.de\/swr\/dasding\/live\/mp3\/128\/stream.mp3"
+                 "value":"http:\/\/ice5.somafm.com\/defcon-128-aac"
                 }],
          "type":"tilelayer",
          "visible":true,

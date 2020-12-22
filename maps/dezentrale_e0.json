@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/stream.fejao.de:8000\/"
+                 "value":"http:\/\/www.tommy-empeg.de"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/95.90.108.16:8000"
+                 "value":"http:\/\/stream.fejao.de:8000\/"
                 }],
          "type":"tilelayer",
          "visible":true,

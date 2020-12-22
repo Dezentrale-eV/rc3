@@ -211,7 +211,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/95.90.108.16:8000\/stream.m3u"
+                 "value":"http:\/\/95.90.108.16:8000"
                 }],
          "type":"tilelayer",
          "visible":true,

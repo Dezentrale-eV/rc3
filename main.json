@@ -189,6 +189,12 @@
          "id":36,
          "name":"chaoszone_jitsi",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"https:\/\/jitsi.rc3.world\/shared-chaoszone"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

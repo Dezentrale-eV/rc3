@@ -247,7 +247,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.tommy-empeg.de\/stream"
+                 "value":"https:\/\/tommy-empeg.de\/stream"
                 }],
          "type":"tilelayer",
          "visible":true,

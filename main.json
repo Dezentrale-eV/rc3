@@ -193,7 +193,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/jitsi.rc3.world\/shared-chaoszone"
+                 "value":"shared-chaoszone"
                 }],
          "type":"tilelayer",
          "visible":true,
